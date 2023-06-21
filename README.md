@@ -9,5 +9,5 @@
 * ⛑️ Looking for help in object detection module using tensorflow and COMPETITIVE CODING🥺
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/yasar-arafat/) 
-* Resume: [Download File](https://yasar-arafath.github.io/yasar-arafath/Yasar_Arafat_Resume.pdf "download")
+* Resume: [Download File](https://yasar-arafath.github.io/yasar-arafath/resume.pdf "download")
 * 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
