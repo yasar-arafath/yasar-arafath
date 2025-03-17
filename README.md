@@ -10,4 +10,3 @@
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/yasar-arafat/) 
 * Resume: [Download File](https://yasar-arafath.github.io/resume.pdf "download")
-* 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
